@@ -1,0 +1,94 @@
+#+Title: Mastering org mode
+
+Status: Learning org-capture!
+
+* Project description:
+
+I've realized that my life is becoming increasingly stressful. I therefore want
+to become more organized and learn org mode in the process!
+
+* Milestones
+
+** Learn 20 key-bindings [4/20]
+  - [X] C-c C-t: toggle TODO state
+  - [X] C-c C-c: toggle checkbox state
+  - [X] C-c C-l: link
+  - [X] C-c C-j: jump
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ]
+
+** TODO [[file:dot-emacs.org][Rewrite emacs config]]
+
+** TODO Report bug (not a milestone, move this)
+   When M-moving "Other thing" under "Thing" it gets located within
+   the #+BEGIN_EXAMPLE-block. This is probably not intended behavior...
+*** Related Thing
+Text
+
+#+BEGIN_EXAMPLE
+Error applying plan:
+
+1 error(s) occurred:
+
+* text text text:
+
+* text text text text
+#+END_EXAMPLE
+
+
+
+babel-load-file, see [[https://youtu.be/SzA2YODtgK4?t%3D19m6s][Harry Schwartz youtube demonstration]]
+** Get a good org-setup
+** Complete 4 [[http://orgmode.org/worg/org-tutorials/][tutorials]]
+** Review project
+
+*** What was good?
+
+*** What was bad?
+
+** Document org mode on eeemil.com!
+
+* Tasks
+
+** TODO [max 10m] Fill milestones with info
+** TODO Get research overview
+** TODO Set up global keybinding for `org-store-link`
+** TODO Install Synonyms https://www.emacswiki.org/emacs/Synonyms
+
+* Notes
+
+* Inspiration
+
+** [[http://members.optusnet.com.au/~charles57/GTD/][Charles Cave and Getting Things Done]]
+   - [ ] [[http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html][Org mode and my GTD workflow]]
+
+** [[http://newartisans.com/2007/08/using-org-mode-as-a-day-planner/][Using org mode as a Day Planner]]
+
+** [[http://www.freelancingdigest.com/articles/pomodoro-emacs-with-orgmode/][Eric Davis Pomodoro-org-guide]]
+
+** TODO Stäm träff med Erika för att prata organisering!
+* Research done
+
+* Research needed
+
+** TODO How are daily agendas etc. used by orgers?
+** TODO How does deadlines/schedules work?
+** TODO Version control systems? Backup?
+
+** TODO Cloud sync?
+** TODO How does archiving work?
+** TODO How to include pomodoros?

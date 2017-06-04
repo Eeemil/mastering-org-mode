@@ -1,0 +1,24 @@
+* Sub-project: Rewrite .emacs!
+This is a sub-project of [[file:project.org][Master Org Mode-project]]
+
+Status: finish everything under tasks, *DO NOT ADD MORE TASKS BEFORE THAT IS DONE* 
+* Goal: have an emacs configuration that I'm satisfied with 
+* Milestones
+** TODO Complete tasks
+** TODO Include into dotfiles repo on GitHub
+** TODO Be done
+** TODO Write a blog post about it
+* Tasks
+** TODO Replace auto-installed packages with use package
+** TODO Investigate myconf
+** TODO Clean up (remove myconf)
+** TODO Define milestones
+** TODO Define goals
+** DONE rework .emacs into babel mode [[https://youtu.be/SzA2YODtgK4?t%3D19m41s][like Harry Schwartz!]]
+** TODO Read [[http://orgmode.org/worg/org-configs/org-customization-guide.html][how to customize org mode]]
+** DONE Incorporate org-mode configurations in .emacs
+** TODO Don't forget Harry Schwartz pretty bullets
+** TODO Get an overview of .emacs.d
+** TODO Switch to `use-package`
+* Research needed
+* Research done
